@@ -4,7 +4,7 @@ the International Monetary Fund (IMF) (International Monetary Fund, 2026). The G
 was selected from 2000 to 2026.
 
 3.1.2 Missing data
-Using the dropona() function, missing values can be removed to ensure data consistency.
+Using the dropna() function, missing values can be removed to ensure data consistency.
 
 3.1.3 Train-Test Split
 The data set is divided into a training set and a test set in a 4:1 ratio. The training set covers the
